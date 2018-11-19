@@ -23,7 +23,8 @@ const Header = ({ siteTitle }) => (
             textDecoration: 'none',
           }}
         >
-          {siteTitle}
+          {/* {siteTitle} */}
+          Aguante Semanticore
         </Link>
       </h1>
     </div>
